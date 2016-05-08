@@ -1,0 +1,15 @@
+c:\users\pavol\documents\visual studio 2013\Projects\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\bin\Debug\yt_10-1-InventoryMngmt.exe.config
+c:\users\pavol\documents\visual studio 2013\Projects\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\bin\Debug\bin\Debug\MICROLAND.ACCDB
+c:\users\pavol\documents\visual studio 2013\Projects\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\bin\Debug\yt_10-1-InventoryMngmt.exe
+c:\users\pavol\documents\visual studio 2013\Projects\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\bin\Debug\yt_10-1-InventoryMngmt.pdb
+c:\users\pavol\documents\visual studio 2013\Projects\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\bin\Debug\yt_10-1-InventoryMngmt.xml
+c:\users\pavol\documents\visual studio 2013\Projects\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\obj\Debug\yt_10_1_InventoryMngmt.frmMicroland.resources
+c:\users\pavol\documents\visual studio 2013\Projects\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\obj\Debug\yt_10_1_InventoryMngmt.Resources.resources
+c:\users\pavol\documents\visual studio 2013\Projects\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\obj\Debug\yt_10-1-InventoryMngmt.vbproj.GenerateResource.Cache
+c:\users\pavol\documents\visual studio 2013\Projects\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\obj\Debug\yt_10-1-InventoryMngmt.exe
+c:\users\pavol\documents\visual studio 2013\Projects\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\obj\Debug\yt_10-1-InventoryMngmt.xml
+c:\users\pavol\documents\visual studio 2013\Projects\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\obj\Debug\yt_10-1-InventoryMngmt.pdb
+C:\Users\Kisha Popo\Downloads\Orders_Inventory_Management\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\bin\Debug\yt_10-1-InventoryMngmt.exe.config
+C:\Users\Kisha Popo\Downloads\Orders_Inventory_Management\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\obj\Debug\yt_10-1-InventoryMngmt.exe
+C:\Users\Kisha Popo\Downloads\Orders_Inventory_Management\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\obj\Debug\yt_10-1-InventoryMngmt.xml
+C:\Users\Kisha Popo\Downloads\Orders_Inventory_Management\yt_10-1-InventoryMngmt\yt_10-1-InventoryMngmt\obj\Debug\yt_10-1-InventoryMngmt.pdb

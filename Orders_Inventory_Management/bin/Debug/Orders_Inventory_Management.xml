@@ -1,0 +1,108 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Orders_Inventory_Management
+</name>
+</assembly>
+<members>
+<member name="T:Orders_Inventory_Management.MicrolandDataSet1.CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1.InventoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1.OrdersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1.CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1.InventoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1.OrdersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1.CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1.InventoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1.OrdersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1TableAdapters.CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1TableAdapters.InventoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1TableAdapters.OrdersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Orders_Inventory_Management.MicrolandDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Orders_Inventory_Management.MicrolandDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Orders_Inventory_Management.MicrolandDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Orders_Inventory_Management.MicrolandDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Orders_Inventory_Management.MicrolandDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Orders_Inventory_Management.MicrolandDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Orders_Inventory_Management.MicrolandDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Orders_Inventory_Management.MicrolandDataSet1TableAdapters.TableAdapterManager.UpdateAll(Orders_Inventory_Management.MicrolandDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Orders_Inventory_Management.MicrolandDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Orders_Inventory_Management.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Orders_Inventory_Management.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Orders_Inventory_Management.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
